@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733676563803",
+    "firebase_url": "https://trivago-mubeena.firebaseio.com",
+    "project_id": "trivago-mubeena",
+    "storage_bucket": "trivago-mubeena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733676563803:android:d58a4425b6e2b29303be7e",
+        "android_client_info": {
+          "package_name": "com.example.trivago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733676563803-8hgeptrn9ihptnr3ovua85e41g6d24eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBVb-X8ntAetcrlyB10573H1W7aE6aloA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733676563803-8hgeptrn9ihptnr3ovua85e41g6d24eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
